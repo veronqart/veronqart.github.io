@@ -1947,6 +1947,9 @@ body {
     font-size: 40px !important;
   }
 }
+.cid-rvW7dzr4BT P {
+  color: #232323;
+}
 .cid-rvWbz3na3O {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2319,6 +2322,9 @@ body {
     font-size: 40px !important;
   }
 }
+.cid-rw7HUYpugH P {
+  color: #232323;
+}
 .cid-rw7IiMUkod {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2380,4 +2386,11 @@ body {
   .cid-rw7IiMUkod .card-img span {
     font-size: 40px !important;
   }
+}
+.cid-rw7IiMUkod H4 {
+  text-align: left;
+  color: #232323;
+}
+.cid-rw7IiMUkod P {
+  color: #232323;
 }
