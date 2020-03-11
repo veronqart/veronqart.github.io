@@ -1815,13 +1815,37 @@ body {
 .cid-rvW4LhBJyv .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-rvW6IVTJTb {
-  padding-top: 0px;
-  padding-bottom: 0px;
+.cid-rSW29wuK90 {
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-color: #ffffff;
 }
-.cid-rvW6IVTJTb P {
-  color: #767676;
+.cid-rSW29wuK90 .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+  color: #232323;
+}
+.cid-rSW29wuK90 .mbr-author-name {
+  font-weight: bold;
+  color: #232323;
+}
+.cid-rSW29wuK90 .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+@media (max-width: 991px) {
+  .cid-rSW29wuK90 .mbr-figure,
+  .cid-rSW29wuK90 img {
+    max-height: 300px;
+    width: auto;
+    margin: auto;
+  }
+  .cid-rSW29wuK90 .media-content {
+    padding-top: 1.5rem !important;
+  }
+}
+.cid-rSW29wuK90 .mbr-author-desc {
+  color: #232323;
 }
 .cid-rBLPCTOIlX {
   padding-top: 90px;
