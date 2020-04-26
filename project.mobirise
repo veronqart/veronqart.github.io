@@ -1174,6 +1174,9 @@
               ".card-img span": {
                 "font-size": "40px !important"
               }
+            },
+            "P": {
+              "color": "#232323"
             }
           },
           "_name": "features11",
