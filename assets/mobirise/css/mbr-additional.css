@@ -2625,29 +2625,6 @@ body {
   flex-shrink: 0;
   -webkit-flex-shrink: 0;
 }
-.cid-sl7UIDMD3r .img-text {
-  width: 64px;
-  height: 64px;
-  font-size: 32px;
-  border: 2px solid #efefef;
-  border-radius: 50%;
-}
-@media (max-width: 991px) {
-  .cid-sl7UIDMD3r .img-text {
-    width: 48px;
-    height: 48px;
-    font-size: 24px;
-  }
-}
-@media (min-width: 992px) {
-  .cid-sl7UIDMD3r .cards-block {
-    border-top: 2px solid #efefef;
-  }
-}
-.cid-sl7UIDMD3r .cards-block .card {
-  border-bottom: 2px solid #efefef;
-  border-radius: 0;
-}
 .cid-sl7UIDMD3r .cards-container {
   display: flex;
   -webkit-flex-direction: row;
