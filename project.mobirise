@@ -1637,7 +1637,7 @@
               "font-weight": "300"
             },
             ".mbr-content-text": {
-              "color": "#767676",
+              "color": "#232323",
               "margin-bottom": "0"
             },
             ".card": {
