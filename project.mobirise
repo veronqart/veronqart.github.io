@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site-clone",
-    "currentPage": "cv.html",
+    "currentPage": "page1.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 52,
     "versionPublish": "4.10.4",
@@ -1190,7 +1190,7 @@
         }
       ]
     },
-    "cv.html": {
+    "page1.html": {
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "CV",
